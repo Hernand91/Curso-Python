@@ -29,3 +29,5 @@ diccionario = {
 }
 
 print(diccionario["altura"])
+
+
